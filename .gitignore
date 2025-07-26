@@ -1,0 +1,10 @@
+*.bak
+*.txt
+*.pdf
+*.docx
+*.xlsx
+*.json
+*.htm
+*.webp
+test*.*
+ExcelZusammenfassungtest.py
